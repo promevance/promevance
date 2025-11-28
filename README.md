@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @promevance
-- 👀 I’m interested in business development, business analysis, branding and marketing, and data analytics
-- 🌱 I’m currently learning data analytics
+- 👀 I’m interested in business development, business analysis/analytics, business intelligence, business strategy, branding and marketing, and growth strategy
+- 🌱 I’m currently learning data and business analytics
 - 💞️ I’m looking to collaborate on beginner data analytics projects to enable me to practice and get better.
-- 📫 You can reach me via email - charmingevan@gmail.com
+- 📫 You can reach me via email - promevance@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love board games esp Monopoly and Scrabble.
 
