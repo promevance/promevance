@@ -6,7 +6,7 @@ I grow products, startups and ventures through sharp positioning, inventive grow
 
 - 🌐 **Main site:** [evanpromise.com](https://evanpromise.com), my story and brand and growth case studies
 - 📊 **Data and technical portfolio:** [promevance.github.io](https://promevance.github.io): Tableau, Python and data-backed strategy
-- 🛠️ **Product portfolio:** [product-portfolio](https://github.com/promevance/product-portfolio): websites and apps I build with AI
+- 🚀 **Product portfolio:** [product-portfolio](https://github.com/promevance/product-portfolio): product marketing and growth work on startup products (KompleteCare, SimlessPay and TetradPay)
 - 💼 **LinkedIn:** [evan-promise-c](https://www.linkedin.com/in/evan-promise-c/)
 - 📫 **Email:** [hello@evanpromise.com](mailto:hello@evanpromise.com) · [promevance@gmail.com](mailto:promevance@gmail.com)
 
