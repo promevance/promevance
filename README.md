@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @promevance
 - 👀 I’m interested in business development, business analysis/analytics, business intelligence, business strategy, branding and marketing, and growth strategy
-- 🌱 I’m currently learning data and business analytics
-- 💞️ I’m looking to collaborate on beginner data analytics projects to enable me to practice and get better.
+- 🌱 I’m currently learning data science and business analytics
 - 📫 You can reach me via email - promevance@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love board games esp Monopoly and Scrabble.
